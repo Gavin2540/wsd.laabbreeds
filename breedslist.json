@@ -1,0 +1,57 @@
+[
+    {
+        "breedId": "B101",
+        "breedName": "Golden Retriever",
+        "description": "Friendly, intelligent and devoted. Great family dog.",
+        "size": "Large",
+        "lifespan": "10-12 years",
+        "origin": "Scotland",
+        "imageUrl": "https://dog.ceo/api/img/retriever/golden/n02099601_3004.jpg"
+    },
+    {
+        "breedId": "B102",
+        "breedName": "Indian Chippiparai(SANDY PATTY)",
+        "description": "terror of kerala,protect everyone in a locality singlehandedly.",
+        "size": "Medium",
+        "lifespan": "12-15 years",
+        "origin": "India",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUj_C5_wzFLTKNV9Bo2sjJY0fEQti_4E0miV6t6hrfE4Ur4j-b"
+    },
+    {
+        "breedId": "B103",
+        "breedName": "Labrador Retriever",
+        "description": "Friendly, outgoing, and high-spirited. Great working dog.",
+        "size": "Large",
+        "lifespan": "10-12 years",
+        "origin": "Canada",
+        "imageUrl": "https://dog.ceo/api/img/retriever/labrador/n02099712_1259.jpg"
+    },
+    {
+        "breedId": "B104",
+        "breedName": "German Shepherd",
+        "description": "Courageous, confident, and smart. Ideal working dog.",
+        "size": "Large",
+        "lifespan": "9-13 years",
+        "origin": "Germany",
+        "imageUrl": "https://dog.ceo/api/img/germanshepherd/n02106662_4700.jpg"
+    },
+    {
+        "breedId": "B105",
+        "breedName": "Poodle",
+        "description": "Active, proud, and smart. Great for families.",
+        "size": "Medium",
+        "lifespan": "12-15 years",
+        "origin": "France",
+        "imageUrl": "https://dog.ceo/api/img/poodle/n02113712_1287.jpg"
+    },
+    {
+        "breedId": "B106",
+        "breedName": "Beagle",
+        "description": "Curious, friendly, and merry. Ideal companion dog.",
+        "size": "Small",
+        "lifespan": "10-15 years",
+        "origin": "England",
+        "imageUrl": "https://dog.ceo/api/img/beagle/n02088364_3991.jpg"
+    }
+]
+
